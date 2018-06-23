@@ -1,0 +1,9 @@
+.planet-search-bar {
+    width: 60%;
+    display: block;
+}
+.planet-card {
+    float: left;
+    padding: 1em;
+    margin: 1em !important;
+}
